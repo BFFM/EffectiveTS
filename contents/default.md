@@ -1,57 +1,45 @@
-<p>
+#### [back](../../../README.md) &nbsp;&nbsp; | &nbsp;&nbsp; write by [Sumin](sumin)
 
-#### [back](../../../README.md) &nbsp;&nbsp; | &nbsp;&nbsp; write by [Writer](https://github.com/)
+# 01. 대 제목
 
-</p>
-
-# 데이터 타입의 종류
-
-<p align="center">
+<p align="center" style="width:500px; margin: 0 auto">
     <img src="../image/main.png">
-<p> * 이 글은 코어자바스크립트 책을 참고하여 기록하였습니다. </p>
 </p>
 
 ---
 
+> 이 글은 이펙티브 타입스크립트를 참고하여 기록하였습니다.
+
 <br>
 
-### 01. 기본형
+## 1. 중 제목
 
-> 값이 담긴 주솟값을 바로 복제하는 데이터 타입 (핵심 부분 작성)
+### 1) 소 제목
+### 2) 소 제목
+### 3) 소 제목
+## 02. 중 제목
 
-```
-코드 작성
-```
+### 1) 소 제목
+### 2) 소 제목
+### 3) 소 제목
 
-<p>해당 내용 작성</p>
-
-### 02. 참조형
-
-> 값이 담긴 주솟값들로 이루어진 묶음을 가리키는 주솟값을 복제하는 데이터 타입 (핵심 부분 작성)
-
-```
-const a = () => {
-    console.log('a');
-}
-
-a();
-```
-
-<p>해당 내용 작성 || 중요 내용은 <strong>bold 처리</strong> </p>
-
-<span>읽어 주셔서 감사합니다.</span>
 
 ---
 
 <strong><참고자료></strong>
-</br>
-[책] [#코어자바스트립트][core-javascript] - 정재남 지음 -
-</br>
-[사이트] [#www.naver.com][naver]
 
-<strong><데이터 타입></strong> 데이터 타입의 종류 end
+[책] [#이펙티브 타입스크립트][effective-typescript] - 댄 밴더캄 지음 -
+
+[사이트] [#www.naver.com][naver]
 
 ---
 
-[core-javascript]: https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=K532636268&start=pnaver_02
+##### 대제목 end
+
+
+[effective-typescript]: https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=273193135&start=slayer
+[sangcho]: https://github.com/SangchoKim
+[taeHyen]: https://github.com/rlaxogus0517
+[kangHyen]: https://github.com/bebekh1216
+[sumin]: https://github.com/ttumzzi
 [naver]: https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=K532636268&start=pnaver_02
