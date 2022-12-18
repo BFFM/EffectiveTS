@@ -1,4 +1,4 @@
-#### [back](../../../README.md) &nbsp;&nbsp; | &nbsp;&nbsp; write by [Sumin](sumin)
+#### [back](../../README.md) &nbsp;&nbsp; | &nbsp;&nbsp; write by [Sangcho][sangcho]
 
 # 01. 대 제목
 
@@ -39,7 +39,7 @@
 
 [effective-typescript]: https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=273193135&start=slayer
 [sangcho]: https://github.com/SangchoKim
-[taeHyen]: https://github.com/rlaxogus0517
-[kangHyen]: https://github.com/bebekh1216
+[taeHyen]: https://github.com/Tap-Kim
+[kangHyen]: https://github.com/NacreousCloud
 [sumin]: https://github.com/ttumzzi
 [naver]: https://www.aladin.co.kr/shop/wproduct.aspx?ISBN=K532636268&start=pnaver_02
